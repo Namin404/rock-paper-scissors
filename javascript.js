@@ -104,14 +104,12 @@ let jesus = game()
 console.log(jesus);
 
 
-/*
 
-function example() {
-    for (let i = 0; i < 5; i++){
-       console.log(i)
-    }
+function what() {
+    console.log("what?")
 }
 
-let wtf = example()
+for (let i = 0; i < 5; i++) { 
+        what();
+    }   
 
-*/
